@@ -1,6 +1,6 @@
 # AAVE DAI Escrow
 
-This is an AAVE DAI Escrow Dapp built with [Hardhat](https://hardhat.org/).
+This is an AAVE DAI Escrow Dapp built with [Hardhat](https://hardhat.org/) courtesy of ChainShot.
 
 ## Project Layout
 
@@ -14,10 +14,10 @@ There are three top-level folders:
 
 There are a few steps to get setup here:
 
- - Install [install Node.js](https://nodejs.org/en/)
- - Download this repository locally
- - Open the command line and navigate to your local copy of this repository
- - Run `npm install` to download all the dependencies
+-   Install [install Node.js](https://nodejs.org/en/)
+-   Download this repository locally
+-   Open the command line and navigate to your local copy of this repository
+-   Run `npm install` to download all the dependencies
 
 ## Contracts
 
